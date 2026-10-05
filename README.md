@@ -31,7 +31,7 @@ Currently studying and sharpening my skills in software development, robotics sy
 |---|---|
 | **Location** | Brazil 🇧🇷 |
 | **Education** | Desenvolvimento de Sistemas - ETEC, Engenharia de Softwar - FIAP |
-| **Teams** | Brazilian Storm · Sanja Storm |
+| **Teams** | Brazilian Storm #6404 · Sanja Storm #18613 |
 | **Focus** | Robotics · Software Dev · AI |
 | **Contact** | pedrovieiradepaula28@gmail.com |
 | **Learning** | Always evolving |
@@ -48,9 +48,9 @@ Currently studying and sharpening my skills in software development, robotics sy
 
 | Competition | Team | Robot | Language |
 |:-:|:-:|:-:|:-:|
-| **FRC** — First Robotics | **Brazilian Storm** | [BS-X](https://github.com/PedroVieirasj/BS-X-Brazilian-Storm) | Java |
-| **FTC** — First Robotics | **Sanja Storm** | [M06](https://github.com/PedroVieirasj/M06) | Java |
-| **FTC** — First Tech | **Sanja Storm** | [M0-5](https://github.com/PedroVieirasj/M0-5-Sanja-Storm) | Java |
+| **FRC** — First Robotics Compentition | **Brazilian Storm** | [BS-X](https://github.com/PedroVieirasj/BS-X-Brazilian-Storm) | Java |
+| **FTC** — First Tech Challenge | **Sanja Storm** | [M06](https://github.com/PedroVieirasj/M06) | Java |
+| **FTC** — First Tech Challenge | **Sanja Storm** | [M0-5](https://github.com/PedroVieirasj/M0-5-Sanja-Storm) | Java |
 
 </div>
 
