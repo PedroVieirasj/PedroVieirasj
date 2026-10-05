@@ -103,22 +103,9 @@ Currently studying and sharpening my skills in software development, robotics sy
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-[![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroVieirasj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff)](https://github.com/PedroVieirasj)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1a1f3d,100:0d1117&height=120&section=footer&text=Let%27s%20build%20something%20amazing!&fontSize=20&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PedroVieirasj&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
-</div>
